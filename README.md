@@ -131,7 +131,7 @@ credit-risk-prediction/
 ├── outputs/
 ├── dataset_description.pdf
 ├── README.md  
-└── requirements.txt  
+└── requirements.txt
 
 ---
 
