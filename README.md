@@ -126,10 +126,10 @@ Raw Data → Cleaning → Feature Engineering → Encoding → Scaling → SMOTE
 
 credit-risk-prediction/  
 │  
-├── data/  
+├── assets/ 
 ├── notebooks/  
-├── assets/  
-├── outputs/  
+├── outputs/
+├── dataset_description.pdf
 ├── README.md  
 └── requirements.txt  
 
