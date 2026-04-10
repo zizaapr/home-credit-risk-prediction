@@ -128,7 +128,7 @@ credit-risk-prediction/
 │  
 ├── data/  
 ├── notebooks/  
-├── src/  
+├── assets/  
 ├── outputs/  
 ├── README.md  
 └── requirements.txt  
