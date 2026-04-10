@@ -124,14 +124,17 @@ Raw Data → Cleaning → Feature Engineering → Encoding → Scaling → SMOTE
 
 ## 📂 Repository Structure
 
-credit-risk-prediction/  
-│  
-├── assets/ 
-├── notebooks/  
+```
+credit-risk-prediction/
+│
+├── assets/
+├── notebooks/
 ├── outputs/
 ├── dataset_description.pdf
-├── README.md  
+├── README.md
 └── requirements.txt
+```
+
 
 ---
 
