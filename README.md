@@ -137,16 +137,9 @@ credit-risk-prediction/
 
 ## 📚 References
 
-- Kaggle: Home Credit Default Risk  
+- Home Credit Default Risk  
 - Scikit-learn Documentation  
 - Credit Risk Modeling (Book)  
-
----
-
-## 👤 Author
-
-**[Your Name]**  
-Data Scientist  
 
 ---
 
